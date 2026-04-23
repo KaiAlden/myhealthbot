@@ -1,0 +1,20 @@
+﻿{
+    "server_port": 9901,
+    "api_key": "sk-3de20e43b9474dafb0b9a03892007d25",
+    "app_id": "d79cced81ae94dd488f920cd9ab426cb",
+    "rag_enabled": true,
+    "dify_base_url": "http://192.168.44.128/v1",
+    "dify_api_key": "dataset-Iywj8oKyrFMsyB8Tt6WZR6po",
+    "dify_timeout": 15,
+    "rag_asset_base_url": "http://192.168.44.1:9901/rag-assets",
+    "rag_score_threshold": 0.6,
+    "route_confidence_threshold": 0.6,
+    "history_max_rounds": 8,
+    "mode_use_dify_answer": false,
+    "db_path": "data/history.db",
+    "mysql_host": "localhost",
+    "mysql_port": 3306,
+    "mysql_user": "root",
+    "mysql_password": "123321",
+    "mysql_database": "aibot"
+}
