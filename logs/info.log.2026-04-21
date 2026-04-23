@@ -1,0 +1,138 @@
+2026-04-21 16:23:35,744 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 16:23:35,821 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-21 16:23:35,822 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-21 16:23:35,824 - werkzeug - INFO -  * Restarting with stat
+2026-04-21 16:23:36,955 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 16:23:37,019 - werkzeug - WARNING -  * Debugger is active!
+2026-04-21 16:23:37,028 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-21 16:23:43,137 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 16:23:43] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image001.png HTTP/1.1" 200 -
+2026-04-21 16:23:43,198 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 16:23:43] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-21 16:43:53,321 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 16:43:53,322 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 16:43:53] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-21 16:53:25,450 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 16:53:25,502 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-21 16:53:25,502 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-21 16:53:25,507 - werkzeug - INFO -  * Restarting with stat
+2026-04-21 16:53:26,525 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 16:53:26,560 - werkzeug - WARNING -  * Debugger is active!
+2026-04-21 16:53:26,564 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-21 16:53:32,686 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 16:53:32,688 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 16:53:32] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-21 16:53:49,688 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 16:53:49,689 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 16:53:49] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-21 16:54:02,617 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 16:54:02,618 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 16:54:02] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-21 16:57:26,192 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 16:57:26,260 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-21 16:57:26,261 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-21 16:57:26,264 - werkzeug - INFO -  * Restarting with stat
+2026-04-21 16:57:27,345 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 16:57:27,389 - werkzeug - WARNING -  * Debugger is active!
+2026-04-21 16:57:27,392 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-21 16:57:37,297 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 16:57:37,301 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 16:57:37] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-21 17:03:12,394 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:03:12,446 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-21 17:03:12,446 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-21 17:03:12,448 - werkzeug - INFO -  * Restarting with stat
+2026-04-21 17:03:13,503 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:03:13,535 - werkzeug - WARNING -  * Debugger is active!
+2026-04-21 17:03:13,539 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-21 17:03:26,560 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:03:26,561 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:03:26] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-21 17:07:07,976 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:07:08,023 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:07:08,050 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:07:08,089 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:07:15,232 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:07:15,284 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:07:15,287 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:07:15] "POST /api/chat HTTP/1.1" 200 -
+2026-04-21 17:09:31,385 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:09:31,451 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:09:31,484 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:09:31,516 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:09:37,082 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:09:37,118 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:09:37,120 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:09:37] "POST /api/chat HTTP/1.1" 200 -
+2026-04-21 17:11:38,228 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:11:38,255 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:11:39,768 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:11:39,796 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:11:39,832 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:11:39,860 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:11:39,884 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:11:45,133 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:11:45,169 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:11:45,170 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:11:45] "POST /api/chat HTTP/1.1" 200 -
+2026-04-21 17:12:56,402 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:12:56,438 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:12:57,213 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:12:57,252 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:12:57,299 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:12:57,322 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:12:57,353 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:13:00,796 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:13:00,827 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:13:00,828 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:13:00] "POST /api/chat HTTP/1.1" 200 -
+2026-04-21 17:14:28,794 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:14:28,840 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:14:29,642 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:14:29,668 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:14:29,701 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:14:36,245 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:14:36,277 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:14:36,279 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:14:36] "POST /api/chat HTTP/1.1" 200 -
+2026-04-21 17:14:52,055 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:14:52,097 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:14:52,851 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:14:52,881 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:14:52,920 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:14:59,970 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:15:00,006 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:15:00,008 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:15:00] "POST /api/chat HTTP/1.1" 200 -
+2026-04-21 17:15:38,585 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:15:38,641 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:15:39,817 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:15:39,844 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:15:39,887 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:15:43,835 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:15:43,874 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:15:43,876 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:15:43] "POST /api/chat HTTP/1.1" 200 -
+2026-04-21 17:18:46,140 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:18:46,183 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:18:46,878 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:18:46,903 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:18:46,937 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:18:54,125 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:18:54,154 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-21 17:18:54,155 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:18:54] "POST /api/chat HTTP/1.1" 200 -
+2026-04-21 17:28:03,851 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:03] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image004.png HTTP/1.1" 200 -
+2026-04-21 17:28:03,858 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:03] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image001.png HTTP/1.1" 200 -
+2026-04-21 17:28:03,864 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:03] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image003.png HTTP/1.1" 200 -
+2026-04-21 17:28:03,872 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:03] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image006.png HTTP/1.1" 200 -
+2026-04-21 17:28:03,872 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:03] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image002.png HTTP/1.1" 200 -
+2026-04-21 17:28:03,877 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:03] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image005.png HTTP/1.1" 200 -
+2026-04-21 17:28:04,172 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:04] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image007.png HTTP/1.1" 200 -
+2026-04-21 17:28:04,223 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:04] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image009.png HTTP/1.1" 200 -
+2026-04-21 17:28:04,224 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:04] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image008.png HTTP/1.1" 200 -
+2026-04-21 17:28:04,226 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:04] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image010.png HTTP/1.1" 200 -
+2026-04-21 17:28:04,227 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:04] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image011.png HTTP/1.1" 200 -
+2026-04-21 17:28:04,229 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:04] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image012.png HTTP/1.1" 200 -
+2026-04-21 17:28:04,495 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:04] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image013.png HTTP/1.1" 200 -
+2026-04-21 17:28:04,575 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:04] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image016.png HTTP/1.1" 200 -
+2026-04-21 17:28:04,576 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:04] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image015.png HTTP/1.1" 200 -
+2026-04-21 17:28:04,576 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:04] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image014.png HTTP/1.1" 200 -
+2026-04-21 17:28:04,577 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:04] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image017.png HTTP/1.1" 200 -
+2026-04-21 17:28:04,579 - werkzeug - INFO - 127.0.0.1 - - [21/Apr/2026 17:28:04] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image018.png HTTP/1.1" 200 -

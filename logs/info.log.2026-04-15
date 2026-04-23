@@ -1,0 +1,41 @@
+2026-04-15 21:54:35,604 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.0.197:9901
+2026-04-15 21:54:35,606 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-15 21:54:35,608 - werkzeug - INFO -  * Restarting with stat
+2026-04-15 21:54:36,532 - werkzeug - WARNING -  * Debugger is active!
+2026-04-15 21:54:36,537 - werkzeug - INFO -  * Debugger PIN: 747-105-226
+2026-04-15 21:55:00,319 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:55:00] "GET /apidocs/ HTTP/1.1" 200 -
+2026-04-15 21:55:00,408 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:55:00] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2026-04-15 21:55:00,559 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:55:00] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2026-04-15 21:55:00,664 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:55:00] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2026-04-15 21:55:00,664 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:55:00] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2026-04-15 21:55:06,575 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:55:06] "GET /apispec_1.json HTTP/1.1" 200 -
+2026-04-15 21:55:06,624 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:55:06] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2026-04-15 21:59:16,279 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.0.197:9901
+2026-04-15 21:59:16,280 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-15 21:59:16,282 - werkzeug - INFO -  * Restarting with stat
+2026-04-15 21:59:17,229 - werkzeug - WARNING -  * Debugger is active!
+2026-04-15 21:59:17,233 - werkzeug - INFO -  * Debugger PIN: 747-105-226
+2026-04-15 21:59:21,964 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:59:21] "GET /apidocs/ HTTP/1.1" 200 -
+2026-04-15 21:59:22,060 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:59:22] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2026-04-15 21:59:22,207 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:59:22] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2026-04-15 21:59:22,314 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:59:22] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2026-04-15 21:59:22,316 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:59:22] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2026-04-15 21:59:22,697 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:59:22] "GET /apispec_1.json HTTP/1.1" 200 -
+2026-04-15 21:59:52,795 - utils.dify_client - ERROR - Dify request failed: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
+2026-04-15 21:59:52,823 - mysql_util - ERROR - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-15 21:59:52,823 - data.history_data - ERROR - Prepare history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-15 21:59:55,757 - mysql_util - ERROR - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-15 21:59:55,757 - data.history_data - ERROR - Create history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-15 21:59:55,758 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 21:59:55] "POST /api/chat HTTP/1.1" 200 -
+2026-04-15 22:06:22,716 - utils.dify_client - ERROR - Dify request failed: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
+2026-04-15 22:06:22,732 - mysql_util - ERROR - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-15 22:06:22,733 - data.history_data - ERROR - Prepare history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-15 22:06:27,196 - mysql_util - ERROR - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-15 22:06:27,197 - data.history_data - ERROR - Create history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-15 22:06:27,197 - werkzeug - INFO - 127.0.0.1 - - [15/Apr/2026 22:06:27] "POST /api/chat HTTP/1.1" 200 -

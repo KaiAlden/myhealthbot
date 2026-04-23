@@ -1,0 +1,10 @@
+2026-04-15 21:59:52,795 - utils.dify_client - ERROR - dify_client.py:47 - Dify request failed: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
+2026-04-15 21:59:52,823 - mysql_util - ERROR - mysql_util.py:50 - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-15 21:59:52,823 - data.history_data - ERROR - history_data.py:138 - Prepare history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-15 21:59:55,757 - mysql_util - ERROR - mysql_util.py:50 - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-15 21:59:55,757 - data.history_data - ERROR - history_data.py:95 - Create history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-15 22:06:22,716 - utils.dify_client - ERROR - dify_client.py:47 - Dify request failed: <urlopen error [WinError 10061] 由于目标计算机积极拒绝，无法连接。>
+2026-04-15 22:06:22,732 - mysql_util - ERROR - mysql_util.py:50 - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-15 22:06:22,733 - data.history_data - ERROR - history_data.py:138 - Prepare history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-15 22:06:27,196 - mysql_util - ERROR - mysql_util.py:50 - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-15 22:06:27,197 - data.history_data - ERROR - history_data.py:95 - Create history table failed: 'NoneType' object has no attribute 'execute'

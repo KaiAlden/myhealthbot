@@ -1,0 +1,673 @@
+2026-04-22 10:18:40,185 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 10:18:41,121 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-22 10:18:41,122 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-22 10:18:41,124 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 10:18:42,253 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 10:18:42,298 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 10:18:42,303 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 10:18:49,977 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:18:49] "GET /rag-assets/汤王温泉泡池对应体质清单_3__Sheet1__image017.png HTTP/1.1" 200 -
+2026-04-22 10:18:50,122 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:18:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-22 10:19:42,791 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:42] "GET /rag-assets/青春塘产品对应体质__朕仙来__image001.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:42,796 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:42] "GET /rag-assets/青春塘产品对应体质__朕仙来__image003.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:42,796 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:42] "GET /rag-assets/青春塘产品对应体质__朕仙来__image002.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:42,799 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:42] "GET /rag-assets/青春塘产品对应体质__朕仙来__image004.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:42,800 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:42] "GET /rag-assets/青春塘产品对应体质__朕仙来__image005.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:42,802 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:42] "GET /rag-assets/青春塘产品对应体质__朕仙来__image006.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:43,363 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:43] "GET /rag-assets/青春塘产品对应体质__朕仙来__image007.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:43,364 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:43] "GET /rag-assets/青春塘产品对应体质__朕仙来__image008.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:43,366 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:43] "GET /rag-assets/青春塘产品对应体质__朕仙来__image009.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:43,367 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:43] "GET /rag-assets/青春塘产品对应体质__朕仙来__image010.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:43,404 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:43] "GET /rag-assets/青春塘产品对应体质__朕仙来__image011.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:43,465 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:43] "GET /rag-assets/青春塘产品对应体质__朕仙来__image012.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:43,766 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:43] "GET /rag-assets/青春塘产品对应体质__朕仙来__image013.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:43,769 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:43] "GET /rag-assets/青春塘产品对应体质__朕仙来__image014.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:43,781 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:43] "GET /rag-assets/青春塘产品对应体质__朕仙来__image015.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:43,932 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:43] "GET /rag-assets/青春塘产品对应体质__朕仙来__image016.jpg HTTP/1.1" 200 -
+2026-04-22 10:19:44,068 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:44] "GET /rag-assets/青春塘产品对应体质__朕仙来__image017.png HTTP/1.1" 200 -
+2026-04-22 10:19:44,078 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:44] "GET /rag-assets/青春塘产品对应体质__朕仙来__image018.png HTTP/1.1" 200 -
+2026-04-22 10:19:44,426 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:19:44] "[36mGET /rag-assets/青春塘产品对应体质__朕仙来__image018.png HTTP/1.1[0m" 304 -
+2026-04-22 10:20:43,707 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:43] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image003.png HTTP/1.1" 200 -
+2026-04-22 10:20:43,708 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:43] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image002.png HTTP/1.1" 200 -
+2026-04-22 10:20:43,708 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:43] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image001.png HTTP/1.1" 200 -
+2026-04-22 10:20:43,709 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:43] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image004.png HTTP/1.1" 200 -
+2026-04-22 10:20:43,713 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:43] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image005.png HTTP/1.1" 200 -
+2026-04-22 10:20:43,715 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:43] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image006.png HTTP/1.1" 200 -
+2026-04-22 10:20:44,232 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:44] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image007.png HTTP/1.1" 200 -
+2026-04-22 10:20:44,259 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:44] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image008.png HTTP/1.1" 200 -
+2026-04-22 10:20:44,433 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:44] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image009.png HTTP/1.1" 200 -
+2026-04-22 10:20:44,488 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:44] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image010.png HTTP/1.1" 200 -
+2026-04-22 10:20:44,488 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:44] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image011.png HTTP/1.1" 200 -
+2026-04-22 10:20:44,489 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:44] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image012.png HTTP/1.1" 200 -
+2026-04-22 10:20:44,753 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:44] "GET /rag-assets/青春塘产品对应体质__胶囊罐__image013.png HTTP/1.1" 200 -
+2026-04-22 10:20:45,093 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:20:45] "[36mGET /rag-assets/青春塘产品对应体质__胶囊罐__image013.png HTTP/1.1[0m" 304 -
+2026-04-22 10:21:01,403 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:21:01] "GET /rag-assets/青春塘产品对应体质__方圆荟__image002.png HTTP/1.1" 200 -
+2026-04-22 10:21:01,403 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:21:01] "GET /rag-assets/青春塘产品对应体质__方圆荟__image001.png HTTP/1.1" 200 -
+2026-04-22 10:21:01,406 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:21:01] "GET /rag-assets/青春塘产品对应体质__方圆荟__image003.png HTTP/1.1" 200 -
+2026-04-22 10:21:01,407 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:21:01] "GET /rag-assets/青春塘产品对应体质__方圆荟__image004.png HTTP/1.1" 200 -
+2026-04-22 10:21:01,409 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:21:01] "GET /rag-assets/青春塘产品对应体质__方圆荟__image005.png HTTP/1.1" 200 -
+2026-04-22 10:21:01,412 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:21:01] "GET /rag-assets/青春塘产品对应体质__方圆荟__image006.png HTTP/1.1" 200 -
+2026-04-22 10:21:01,958 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:21:01] "GET /rag-assets/青春塘产品对应体质__方圆荟__image007.png HTTP/1.1" 200 -
+2026-04-22 10:21:01,958 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:21:01] "GET /rag-assets/青春塘产品对应体质__方圆荟__image008.png HTTP/1.1" 200 -
+2026-04-22 10:21:01,959 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:21:01] "GET /rag-assets/青春塘产品对应体质__方圆荟__image009.png HTTP/1.1" 200 -
+2026-04-22 10:21:02,388 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 10:21:02] "[36mGET /rag-assets/青春塘产品对应体质__方圆荟__image009.png HTTP/1.1[0m" 304 -
+2026-04-22 10:53:57,007 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 10:53:57,927 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-22 10:53:57,928 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-22 10:53:57,930 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 10:53:59,128 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 10:53:59,169 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 10:53:59,173 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 10:56:29,543 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\scripts\\convert_to_markdown.py', reloading
+2026-04-22 10:56:29,756 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 10:56:31,156 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 10:56:31,190 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 10:56:31,193 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 10:56:55,609 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\scripts\\convert_to_markdown.py', reloading
+2026-04-22 10:56:55,762 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 10:56:56,846 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 10:56:56,890 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 10:56:56,893 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 10:57:55,794 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\scripts\\convert_to_markdown.py', reloading
+2026-04-22 10:57:56,004 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 10:57:57,092 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 10:57:57,133 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 10:57:57,137 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 10:58:03,253 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\scripts\\convert_to_markdown.py', reloading
+2026-04-22 10:58:03,496 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 10:58:04,538 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 10:58:04,572 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 10:58:04,575 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 11:25:20,256 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 11:25:21,159 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-22 11:25:21,160 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-22 11:25:21,162 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 11:25:22,176 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 11:25:22,213 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 11:25:22,219 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 11:25:27,516 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:25:27] "GET /rag-assets/汤王温泉泡池对应体质清单_3__Sheet1__image008.png HTTP/1.1" 200 -
+2026-04-22 11:25:27,654 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:25:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-22 11:26:13,502 - werkzeug - INFO - 192.168.44.128 - - [22/Apr/2026 11:26:13] "[33mHEAD /rag-assets/æ\x9f\x90ä¸ªå\x9b¾ç\x89\x87æ\x96\x87ä»¶å\x90\x8d.png HTTP/1.1[0m" 404 -
+2026-04-22 11:26:34,577 - werkzeug - INFO - 192.168.44.128 - - [22/Apr/2026 11:26:34] "HEAD /rag-assets/汤王温泉泡池对应体质清单_3__Sheet1__image008.png HTTP/1.1" 200 -
+2026-04-22 11:28:55,918 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:55] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image002.png HTTP/1.1" 200 -
+2026-04-22 11:28:55,918 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:55] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image001.png HTTP/1.1" 200 -
+2026-04-22 11:28:55,919 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:55] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image004.png HTTP/1.1" 200 -
+2026-04-22 11:28:55,920 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:55] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image003.png HTTP/1.1" 200 -
+2026-04-22 11:28:55,921 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:55] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image005.png HTTP/1.1" 200 -
+2026-04-22 11:28:55,923 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:55] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image006.png HTTP/1.1" 200 -
+2026-04-22 11:28:55,972 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:55] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image007.png HTTP/1.1" 200 -
+2026-04-22 11:28:55,975 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:55] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image008.png HTTP/1.1" 200 -
+2026-04-22 11:28:55,979 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:55] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image009.png HTTP/1.1" 200 -
+2026-04-22 11:28:55,988 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:55] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image011.png HTTP/1.1" 200 -
+2026-04-22 11:28:55,991 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:55] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image010.png HTTP/1.1" 200 -
+2026-04-22 11:28:55,991 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:55] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image012.png HTTP/1.1" 200 -
+2026-04-22 11:28:56,026 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image013.png HTTP/1.1" 200 -
+2026-04-22 11:28:56,042 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image014.png HTTP/1.1" 200 -
+2026-04-22 11:28:56,049 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image015.png HTTP/1.1" 200 -
+2026-04-22 11:28:56,058 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image016.png HTTP/1.1" 200 -
+2026-04-22 11:28:56,067 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image017.png HTTP/1.1" 200 -
+2026-04-22 11:28:56,069 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image018.png HTTP/1.1" 200 -
+2026-04-22 11:28:56,338 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 11:28:56] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image018.png HTTP/1.1[0m" 304 -
+2026-04-22 13:15:23,261 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 13:15:23] "[33mPATCH /api/merchants/prodect001/knowledge-base-binding HTTP/1.1[0m" 404 -
+2026-04-22 13:16:22,202 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 13:16:22] "[33mPATCH /api/merchants/prodect001/knowledge-base-binding HTTP/1.1[0m" 404 -
+2026-04-22 13:16:28,870 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:16:28,872 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 13:16:28] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-22 13:25:48,638 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:25:49,559 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-22 13:25:49,561 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-22 13:25:49,564 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 13:25:50,697 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:25:50,737 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 13:25:50,742 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 13:26:53,895 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:26:53,896 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 13:26:53] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-22 13:34:29,091 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:34:29,120 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:34:30,759 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:34:30,790 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:34:30,836 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:34:30,873 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:34:30,894 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:34:34,818 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:34:34,847 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:34:34,848 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 13:34:34] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 13:35:50,024 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:35:50,048 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:35:50,379 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:35:50,405 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:35:50,427 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:35:57,102 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:35:57,134 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 13:35:57,136 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 13:35:57] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 14:25:10,666 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\scripts\\convert_to_markdown.py', reloading
+2026-04-22 14:25:10,823 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 14:25:12,166 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:25:12,211 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 14:25:12,214 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 14:25:30,534 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\scripts\\convert_to_markdown.py', reloading
+2026-04-22 14:25:30,801 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 14:25:32,055 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:25:32,095 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 14:25:32,098 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 14:25:45,336 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\utils\\context_builder.py', reloading
+2026-04-22 14:25:45,553 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 14:25:46,694 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:25:46,729 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 14:25:46,733 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 14:25:55,897 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\main.py', reloading
+2026-04-22 14:25:56,036 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 14:25:57,091 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:25:57,133 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 14:25:57,140 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 14:26:14,624 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:26:14,649 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:26:15,715 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:26:15,746 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:26:15,747 - __main__ - INFO - RAG assets parsed: merchant=prodect001 route_type=rag rag_hit=True docs=10 images=7 references=10
+2026-04-22 14:26:15,785 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:26:15,810 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:26:15,836 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:26:23,220 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:26:23,253 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:26:23,255 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 14:26:23] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 14:27:16,530 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:27:16,577 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:27:17,059 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:27:17,086 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:27:17,086 - __main__ - INFO - RAG assets parsed: merchant=prodect001 route_type=rag rag_hit=True docs=10 images=7 references=10
+2026-04-22 14:27:17,110 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:27:22,035 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:27:22,066 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:27:22,067 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 14:27:22] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 14:27:48,253 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\utils\\rag_asset_util.py', reloading
+2026-04-22 14:27:48,391 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 14:27:49,851 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:27:49,894 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 14:27:49,900 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 14:28:09,620 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:28:09,660 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:28:10,649 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:28:10,684 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:28:10,685 - __main__ - INFO - RAG assets parsed: merchant=prodect001 route_type=rag rag_hit=True docs=10 images=6 references=10
+2026-04-22 14:28:10,717 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:28:10,743 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:28:10,768 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:28:15,382 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\scripts\\convert_to_markdown.py', reloading
+2026-04-22 14:28:15,813 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 14:28:17,082 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:28:17,120 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 14:28:17,123 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 14:36:45,280 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:36:46,184 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-22 14:36:46,185 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-22 14:36:46,187 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 14:36:47,370 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:36:47,457 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 14:36:47,463 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 14:36:51,639 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:36:51,641 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 14:36:51] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-22 14:38:55,645 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:38:55,677 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:38:55,714 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:38:55,715 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 14:38:55] "PATCH /api/admin/merchants/prodect001 HTTP/1.1" 200 -
+2026-04-22 14:39:00,066 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:39:00,068 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 14:39:00] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-22 14:39:43,094 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:39:43,118 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:39:43,752 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:39:43,780 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:39:43,782 - __main__ - INFO - RAG assets parsed: merchant=prodect001 route_type=rag rag_hit=True docs=5 images=4 references=5
+2026-04-22 14:39:43,822 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:39:43,849 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:39:43,872 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:39:50,091 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:39:50,116 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:39:50,117 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 14:39:50] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 14:41:47,572 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:41:47] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image013.png HTTP/1.1" 200 -
+2026-04-22 14:41:49,775 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:41:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-22 14:47:56,588 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image009.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,589 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image012.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,589 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image016.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,591 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image010.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,591 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image013.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,592 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image011.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,651 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image014.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,655 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image017.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,659 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image015.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,665 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image003.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,675 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image002.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,676 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image001.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,701 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image004.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,723 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image005.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,726 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image006.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,736 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image007.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,753 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image018.png HTTP/1.1" 200 -
+2026-04-22 14:47:56,754 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:47:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image008.png HTTP/1.1" 200 -
+2026-04-22 14:55:49,420 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:55:49,447 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:55:50,106 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:55:50,134 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:55:50,134 - __main__ - INFO - RAG assets parsed: merchant=prodect001 route_type=rag rag_hit=True docs=5 images=0 references=5
+2026-04-22 14:55:50,157 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:55:56,441 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:55:56,470 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 14:55:56,471 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 14:55:56] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 14:59:34,477 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image009.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,477 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image010.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,479 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image016.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,480 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image011.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,484 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image013.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,486 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image012.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,508 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image014.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,508 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image017.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,515 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image015.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,524 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image001.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,526 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image002.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,530 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image003.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,540 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image004.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,543 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image005.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,545 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image006.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,552 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image007.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,555 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image018.png HTTP/1.1[0m" 304 -
+2026-04-22 14:59:34,558 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 14:59:34] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image008.png HTTP/1.1[0m" 304 -
+2026-04-22 15:01:56,121 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:01:56] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image017.png HTTP/1.1" 200 -
+2026-04-22 15:04:59,235 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:04:59,274 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:04:59,305 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:04:59,306 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:04:59] "POST /api/admin/merchants HTTP/1.1" 200 -
+2026-04-22 15:05:05,501 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:05:05,502 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:05:05] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-22 15:05:36,167 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:05:36,195 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:05:36,681 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:05:36,709 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:05:36,710 - __main__ - INFO - RAG assets parsed: merchant=prodect003 route_type=rag rag_hit=True docs=2 images=0 references=2
+2026-04-22 15:05:36,739 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:05:36,762 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:05:36,790 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:05:42,430 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:05:42,464 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:05:42,465 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:05:42] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:06:45,751 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:06:45,778 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:06:46,390 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:06:46,413 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:06:46,414 - __main__ - INFO - RAG assets parsed: merchant=prodect003 route_type=rag rag_hit=True docs=4 images=2 references=4
+2026-04-22 15:06:46,438 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:06:51,726 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:06:51,755 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:06:51,758 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:06:51] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:07:22,012 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:22,050 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:22,507 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:22,532 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:22,532 - __main__ - INFO - RAG assets parsed: merchant=prodect003 route_type=rag rag_hit=True docs=2 images=0 references=2
+2026-04-22 15:07:22,556 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:29,281 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:29,310 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:29,311 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:07:29] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:07:51,269 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:51,298 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:52,180 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:52,204 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:52,204 - __main__ - INFO - RAG assets parsed: merchant=prodect003 route_type=rag rag_hit=True docs=2 images=0 references=2
+2026-04-22 15:07:52,231 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:59,240 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:59,268 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:07:59,269 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:07:59] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:09:18,877 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:09:18,912 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:09:19,249 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:09:19,272 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:09:19,273 - __main__ - INFO - RAG assets parsed: merchant=prodect003 route_type=rag rag_hit=True docs=2 images=0 references=2
+2026-04-22 15:09:19,295 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:09:25,663 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:09:25,690 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:09:25,691 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:09:25] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:10:13,750 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:10:13,781 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:10:14,315 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:10:14,342 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:10:14,343 - __main__ - INFO - RAG assets parsed: merchant=prodect001 route_type=rag rag_hit=True docs=5 images=0 references=5
+2026-04-22 15:10:14,366 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:10:20,940 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:10:20,968 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:10:20,969 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:10:20] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:11:26,821 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image009.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,822 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image016.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,825 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image010.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,828 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image011.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,838 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image012.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,842 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image013.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,892 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image014.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,898 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image017.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,908 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image015.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,908 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image001.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,920 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image002.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,932 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image003.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,938 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image004.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,947 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image005.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,957 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image006.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,960 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image007.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,963 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image018.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:26,976 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:11:26] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image008.png HTTP/1.1[0m" 304 -
+2026-04-22 15:11:43,487 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:11:43,516 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:11:44,278 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:11:44,315 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:11:44,316 - __main__ - INFO - RAG assets parsed: merchant=prodect001 route_type=rag rag_hit=True docs=7 images=2 references=7
+2026-04-22 15:11:44,349 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:11:51,750 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:11:51,784 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:11:51,786 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:11:51] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:13:22,096 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:13:22,133 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:13:22,510 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:13:22,546 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:13:22,609 - __main__ - INFO - RAG assets parsed: merchant=prodect003 route_type=rag rag_hit=True docs=2 images=0 references=2
+2026-04-22 15:13:22,685 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:13:30,671 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:13:30,706 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:13:30,707 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:13:30] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:35:42,004 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:35:42,005 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:35:42] "[31m[1mPOST /api/admin/merchants HTTP/1.1[0m" 409 -
+2026-04-22 15:36:27,511 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:27,560 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:27,592 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:27,594 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:36:27] "PATCH /api/admin/merchants/prodect003 HTTP/1.1" 200 -
+2026-04-22 15:36:37,471 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:37,508 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:37,538 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:37,539 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:36:37] "PATCH /api/admin/merchants/prodect001 HTTP/1.1" 200 -
+2026-04-22 15:36:40,509 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:40,537 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:40,567 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:40,569 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:36:40] "PATCH /api/admin/merchants/prodect002 HTTP/1.1" 200 -
+2026-04-22 15:36:46,434 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:46,435 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:36:46] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-22 15:36:53,764 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:53,806 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:54,988 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:55,022 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:36:55,023 - __main__ - INFO - RAG assets parsed: merchant=prodect003 route_type=rag rag_hit=True docs=2 images=0 references=2
+2026-04-22 15:36:55,048 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:01,987 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:02,021 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:02,022 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:37:02] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:37:20,602 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:21,498 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-22 15:37:21,499 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-22 15:37:21,501 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 15:37:22,500 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:22,537 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 15:37:22,542 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 15:37:26,453 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:26,519 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:27,186 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:27,213 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:27,214 - __main__ - INFO - RAG assets parsed: merchant=prodect003 route_type=rag rag_hit=True docs=2 images=0 references=2
+2026-04-22 15:37:27,256 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:27,288 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:27,311 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:34,373 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:34,412 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:34,414 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:37:34] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:37:44,461 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:37:44,462 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:37:44] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-22 15:38:47,052 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:38:47,107 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:38:47,946 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:38:47,984 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:38:47,985 - __main__ - INFO - RAG assets parsed: merchant=prodect001 route_type=rag rag_hit=True docs=2 images=0 references=2
+2026-04-22 15:38:48,030 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:38:48,062 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:38:48,097 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:38:54,745 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:38:54,778 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:38:54,781 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:38:54] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:41:01,675 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:41:01,729 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:41:02,440 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:41:02,474 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:41:02,475 - __main__ - INFO - RAG assets parsed: merchant=prodect001 route_type=rag rag_hit=True docs=6 images=3 references=6
+2026-04-22 15:41:02,500 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:41:09,733 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:41:09,764 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:41:09,765 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:41:09] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:44:09,334 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\utils\\context_builder.py', reloading
+2026-04-22 15:44:09,462 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 15:44:10,503 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:44:10,540 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 15:44:10,543 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 15:44:30,926 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:44:31,822 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-22 15:44:31,823 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-22 15:44:31,825 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 15:44:32,845 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:44:32,879 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 15:44:32,882 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 15:45:02,111 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:45:02,147 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:45:02,889 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:45:02,911 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:45:02,911 - __main__ - INFO - RAG assets parsed: merchant=prodect001 route_type=rag rag_hit=True docs=2 images=0 references=2
+2026-04-22 15:45:02,949 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:45:02,977 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:45:03,004 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:45:10,213 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:45:10,241 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:45:10,243 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 15:45:10] "POST /api/chat HTTP/1.1" 200 -
+2026-04-22 15:46:31,517 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image010.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,520 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image016.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,523 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image012.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,530 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image011.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,532 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image013.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,536 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image009.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,684 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image014.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,692 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image017.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,693 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image015.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,703 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image001.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,712 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image002.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,714 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image003.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,731 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image004.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,807 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image005.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,809 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image006.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,820 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image007.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,822 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image018.png HTTP/1.1[0m" 304 -
+2026-04-22 15:46:31,827 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:46:31] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image008.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,823 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image016.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,828 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image009.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,830 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image010.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,838 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image011.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,845 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image012.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,852 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image013.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,870 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image014.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,875 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image017.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,883 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image015.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,887 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image002.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,887 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image001.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,918 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image003.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,933 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image006.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,939 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image005.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,943 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image004.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,967 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image018.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,968 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image007.png HTTP/1.1[0m" 304 -
+2026-04-22 15:49:42,971 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:49:42] "[36mGET /rag-assets/国贸酒店最新产品归类表格__料包__image008.png HTTP/1.1[0m" 304 -
+2026-04-22 15:52:54,696 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\scripts\\convert_to_markdown.py', reloading
+2026-04-22 15:52:54,839 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 15:52:56,021 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 15:52:56,070 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 15:52:56,073 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 15:55:46,541 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:55:46] "GET /rag-assets/国贸酒店最新产品归类表格__料包__image004.png HTTP/1.1" 200 -
+2026-04-22 15:56:20,740 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:20] "GET /rag-assets/青春塘产品对应体质__熬夜侠__image001.jpg HTTP/1.1" 200 -
+2026-04-22 15:56:20,740 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:20] "GET /rag-assets/青春塘产品对应体质__熬夜侠__image003.jpg HTTP/1.1" 200 -
+2026-04-22 15:56:20,742 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:20] "GET /rag-assets/青春塘产品对应体质__熬夜侠__image004.jpg HTTP/1.1" 200 -
+2026-04-22 15:56:20,743 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:20] "GET /rag-assets/青春塘产品对应体质__熬夜侠__image006.jpg HTTP/1.1" 200 -
+2026-04-22 15:56:20,745 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:20] "GET /rag-assets/青春塘产品对应体质__熬夜侠__image008.jpg HTTP/1.1" 200 -
+2026-04-22 15:56:51,524 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page001__image001.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,527 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page001__image002.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,533 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page001__image003.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,536 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page001__image006.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,538 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page001__image004.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,539 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page001__image005.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,560 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page001__image007.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,562 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page001__image008.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,571 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page001__image009.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,576 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page001__image010.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,579 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page002__image002.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,580 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page002__image001.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,583 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page002__image003.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,584 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page002__image004.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,607 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page002__image005.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,611 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page002__image006.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,616 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page002__image007.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,622 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page002__image008.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,627 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page002__image009.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,631 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page002__image010.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,634 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page002__image011.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,645 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page002__image012.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,657 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page003__image001.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,662 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page003__image002.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,671 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page003__image003.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,676 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page003__image004.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,681 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page003__image005.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,685 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page003__image006.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,699 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page003__image007.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,706 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page003__image008.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,710 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page003__image009.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,715 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page003__image010.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,717 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page003__image011.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,726 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page003__image012.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,741 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page004__image002.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,744 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page004__image001.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,749 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page004__image003.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,761 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page004__image004.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,765 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page004__image006.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,770 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page004__image005.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,791 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page004__image007.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,799 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page004__image008.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,805 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page004__image009.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,807 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page004__image010.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,815 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page004__image012.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,825 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page004__image011.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,840 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page005__image001.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,841 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page005__image002.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,850 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page005__image005.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,852 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page005__image004.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,860 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page005__image003.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,864 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page005__image006.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,876 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page005__image007.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,890 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page005__image009.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,893 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page005__image008.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,897 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page005__image010.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,912 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page006__image001.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,914 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page005__image012.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,914 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page005__image011.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,927 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page006__image002.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,930 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page006__image003.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,949 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page006__image004.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,950 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page006__image005.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,962 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page006__image006.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,962 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page006__image007.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,970 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page006__image009.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,977 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page006__image008.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:51,995 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:51] "GET /rag-assets/黄远御商品资料提供要求_2__page006__image010.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,002 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page006__image011.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,009 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page007__image001.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,010 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page006__image012.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,012 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page007__image002.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,024 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page007__image003.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,041 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page007__image004.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,053 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page007__image006.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,060 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page007__image005.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,066 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page007__image007.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,079 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page007__image008.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,085 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page007__image009.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,092 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page007__image010.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,108 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page007__image011.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,112 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page007__image012.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,118 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page008__image001.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,126 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page008__image002.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,140 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page008__image003.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,143 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page008__image004.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,149 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page008__image005.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,160 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page008__image006.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,177 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page008__image007.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,192 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page008__image008.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,192 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page008__image009.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,195 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page008__image010.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,197 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page008__image011.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,206 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page008__image012.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,215 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page009__image001.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,231 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page009__image002.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,232 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page009__image003.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,240 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page009__image005.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,241 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page009__image006.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,243 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page009__image004.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,262 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page009__image007.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,265 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page009__image008.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,271 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page009__image009.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,275 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page009__image010.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,281 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page009__image011.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,288 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page009__image012.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,291 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page010__image001.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,293 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page010__image002.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,298 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page010__image003.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,304 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page010__image004.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,313 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page010__image005.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,325 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page010__image006.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,327 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page010__image007.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,330 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page010__image008.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,330 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page010__image009.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,338 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page010__image010.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,344 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page010__image011.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,357 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page010__image012.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,358 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page011__image001.jpeg HTTP/1.1" 200 -
+2026-04-22 15:56:52,359 - werkzeug - INFO - 192.168.44.1 - - [22/Apr/2026 15:56:52] "GET /rag-assets/黄远御商品资料提供要求_2__page012__image001.jpeg HTTP/1.1" 200 -
+2026-04-22 17:21:33,453 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:21:34,351 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-22 17:21:34,352 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-22 17:21:34,355 - werkzeug - INFO -  * Restarting with stat
+2026-04-22 17:21:35,633 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:21:35,669 - werkzeug - WARNING -  * Debugger is active!
+2026-04-22 17:21:35,672 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-22 17:21:40,601 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:21:40,633 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:21:40,663 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:21:40,666 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 17:21:40] "POST /api/admin/merchants HTTP/1.1" 200 -
+2026-04-22 17:21:47,903 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:21:47,904 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 17:21:47] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-22 17:23:00,503 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:23:00,556 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:23:01,242 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:23:01,272 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:23:01,273 - __main__ - INFO - RAG assets parsed: merchant=prodect005 route_type=rag rag_hit=True docs=3 images=3 references=3
+2026-04-22 17:23:01,314 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:23:01,339 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:23:01,364 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:23:07,937 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:23:07,966 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-22 17:23:07,967 - werkzeug - INFO - 127.0.0.1 - - [22/Apr/2026 17:23:07] "POST /api/chat HTTP/1.1" 200 -

@@ -1,0 +1,617 @@
+2026-04-18 08:41:16,996 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-18 08:41:17,001 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 08:41:17,001 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 08:41:18,015 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 08:41:18,017 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-18 08:47:27,743 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 08:47:27,788 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 08:47:27,790 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 08:47:27] "POST /api/conversation/new HTTP/1.1" 200 -
+2026-04-18 09:02:29,087 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 09:02:29,118 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 09:02:29,120 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 09:02:29] "POST /api/conversation/new HTTP/1.1" 200 -
+2026-04-18 09:11:03,642 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 09:11:03,667 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 09:11:05,905 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 09:11:05] "POST /api/chatstream HTTP/1.1" 200 -
+2026-04-18 09:11:09,376 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 09:11:09,414 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 09:11:09,415 - __main__ - INFO - chatstream finished in 8.954s
+2026-04-18 09:12:02,144 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 09:12:02] "POST /api/chatstream HTTP/1.1" 200 -
+2026-04-18 09:12:06,016 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 09:12:06,047 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 09:12:06,048 - __main__ - INFO - chatstream finished in 9.855s
+2026-04-18 14:22:12,221 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-18 14:22:12,223 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 14:22:12,225 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 14:22:13,416 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 14:22:13,423 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-18 14:34:18,423 - werkzeug - INFO - 192.168.179.1 - - [18/Apr/2026 14:34:18] "[33mPOST /api/route/resolve HTTP/1.1[0m" 404 -
+2026-04-18 14:34:18,688 - werkzeug - INFO - 192.168.179.1 - - [18/Apr/2026 14:34:18] "[33mPOST /api/route/resolve HTTP/1.1[0m" 404 -
+2026-04-18 14:34:18,917 - werkzeug - INFO - 192.168.179.1 - - [18/Apr/2026 14:34:18] "[33mPOST /api/route/resolve HTTP/1.1[0m" 404 -
+2026-04-18 14:34:19,127 - werkzeug - INFO - 192.168.179.1 - - [18/Apr/2026 14:34:19] "[33mPOST /api/route/resolve HTTP/1.1[0m" 404 -
+2026-04-18 14:38:47,166 - werkzeug - INFO - 192.168.179.1 - - [18/Apr/2026 14:38:47] "[33mPOST /api/route/resolve HTTP/1.1[0m" 404 -
+2026-04-18 14:38:47,412 - werkzeug - INFO - 192.168.179.1 - - [18/Apr/2026 14:38:47] "[33mPOST /api/route/resolve HTTP/1.1[0m" 404 -
+2026-04-18 14:38:47,642 - werkzeug - INFO - 192.168.179.1 - - [18/Apr/2026 14:38:47] "[33mPOST /api/route/resolve HTTP/1.1[0m" 404 -
+2026-04-18 14:38:47,847 - werkzeug - INFO - 192.168.179.1 - - [18/Apr/2026 14:38:47] "[33mPOST /api/route/resolve HTTP/1.1[0m" 404 -
+2026-04-18 15:36:18,316 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-18 15:36:18,317 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 15:36:18,320 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 15:36:19,267 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 15:36:19,272 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-18 15:45:32,606 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 15:45:32,649 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-18 15:45:32,650 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 15:45:32,654 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 15:45:33,677 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 15:45:33,732 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 15:45:33,737 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-18 15:54:08,839 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 15:54:08,840 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 15:54:08] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 15:57:57,617 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 15:57:57,617 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 15:57:57] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 15:58:57,580 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 15:58:57] "[31m[1mPOST /api/route/resolve HTTP/1.1[0m" 415 -
+2026-04-18 15:59:11,748 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 15:59:11,749 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 15:59:11] "POST /api/route/resolve HTTP/1.1" 200 -
+2026-04-18 16:00:26,524 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:00:26,558 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:00:26,569 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 404 for merchant=merchant_jxkj: <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-04-18 16:00:26,613 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:00:26,642 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:00:26,692 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:00:26,729 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:00:26,758 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:00:30,096 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:00:30,129 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:00:30,130 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:00:30] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:07:32,293 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:07:32,294 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:07:32] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 16:07:45,643 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:07:45,675 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:07:45,691 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_jxkj: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:07:45,721 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:07:45,752 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:07:45,782 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:07:51,988 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:07:52,026 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:07:52,027 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:07:52] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:09:43,923 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:09:43,969 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:09:43,987 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_tbsc: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:09:44,018 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:09:44,045 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:09:44,079 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:09:44,106 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:09:44,135 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:09:49,272 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:09:49,306 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:09:49,306 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:09:49] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:10:12,067 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:12,110 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:12,129 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_zykj: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:10:12,177 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:12,221 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:12,288 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:12,338 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:12,373 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:16,062 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:16,091 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:16,092 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:10:16] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:10:40,342 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:40,367 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:40,389 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_jxkj: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:10:40,419 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:40,441 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:40,468 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:46,880 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:46,917 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:10:46,918 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:10:46] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:12:39,259 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:12:39,295 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:12:39,322 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:12:39,323 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:12:39] "PATCH /api/admin/merchants/merchant_jxkj/disable HTTP/1.1" 200 -
+2026-04-18 16:12:54,072 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:12:54,101 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:13:00,574 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:13:00,603 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:13:00,605 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:13:00] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:13:16,313 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:13:16,346 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:13:16,347 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:13:16] "[35m[1mPATCH /api/admin/merchants/merchant_jxkj/disable HTTP/1.1[0m" 500 -
+2026-04-18 16:13:53,556 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:13:53,584 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:13:53,585 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:13:53] "[35m[1mPATCH /api/admin/merchants/merchant_jxkj/disable HTTP/1.1[0m" 500 -
+2026-04-18 16:13:58,593 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:13:58,627 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:13:58,628 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:13:58] "[35m[1mPATCH /api/admin/merchants/merchant_jxkj/disable HTTP/1.1[0m" 500 -
+2026-04-18 16:14:21,879 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:14:21,914 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:14:21,944 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:14:21,946 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:14:21] "PATCH /api/admin/merchants/merchant_jxkj/enable HTTP/1.1" 200 -
+2026-04-18 16:14:29,791 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:14:29,823 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:14:29,833 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_jxkj: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:14:29,861 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:14:29,889 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:14:29,913 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:14:35,541 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:14:35,576 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:14:35,577 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:14:35] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:14:48,918 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:14:48] "[33mPATCH /api/admin/merchants/merchant_jxkj/disenable HTTP/1.1[0m" 404 -
+2026-04-18 16:15:01,372 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:15:01] "[33mPATCH /api/admin/merchants/merchant_jxkj/disenable HTTP/1.1[0m" 404 -
+2026-04-18 16:15:07,853 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:15:07] "[33mPATCH /api/admin/merchants/merchant_jxkj/disenable HTTP/1.1[0m" 404 -
+2026-04-18 16:15:28,111 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:15:28,138 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:15:28,151 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_jxkj: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:15:28,177 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:15:28,204 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:15:28,237 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:15:28,263 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:15:28,289 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:15:34,506 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:15:34,535 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:15:34,537 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:15:34] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:16:35,880 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:16:35,912 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:16:35,924 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_tbsc: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:16:35,955 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:16:35,996 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:16:36,031 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:16:40,813 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:16:40,847 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:16:40,848 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:16:40] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:16:58,264 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:16:58,295 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:16:58,313 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_tbsc: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:16:58,342 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:16:58,366 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:16:58,391 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:17:04,705 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:17:04,736 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:17:04,737 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:17:04] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:17:19,896 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:17:19,925 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:17:19,926 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:17:19] "[35m[1mPATCH /api/admin/merchants/merchant_jxkj/enable HTTP/1.1[0m" 500 -
+2026-04-18 16:17:27,413 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:17:27,443 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:17:27,458 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_jxkj: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:17:27,487 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:17:27,511 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:17:27,539 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:17:32,493 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:17:32,526 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:17:32,527 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:17:32] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:18:02,261 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:18:02,262 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:18:02] "POST /api/route/resolve HTTP/1.1" 200 -
+2026-04-18 16:18:24,397 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:18:24,425 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:18:24,428 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:18:24] "[35m[1mPATCH /api/admin/merchants/merchant_jxkj/enable HTTP/1.1[0m" 500 -
+2026-04-18 16:18:45,195 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:18:45,228 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:18:45,241 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_tbsc: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:18:45,266 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:18:45,295 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:18:45,319 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:18:51,179 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:18:51,212 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:18:51,212 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:18:51] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:19:12,133 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:19:12,134 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:19:12] "POST /api/route/resolve HTTP/1.1" 200 -
+2026-04-18 16:19:34,947 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:19:34,978 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:19:35,015 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_tbsc: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:19:35,045 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:19:35,071 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:19:35,095 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:19:39,520 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:19:39,565 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:19:39,566 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:19:39] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:20:28,144 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:20:28,174 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:20:28,199 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_zhys: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:20:28,231 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:20:28,258 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:20:28,290 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:20:28,314 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:20:28,342 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:20:31,375 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:20:31,406 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:20:31,408 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:20:31] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:25:39,633 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:25:39,687 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:25:39,714 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_zhys: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:25:39,744 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:25:39,772 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:25:39,803 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:25:45,310 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:25:45,346 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:25:45,347 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:25:45] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:26:13,554 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:26:13,579 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:26:13,600 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 401 for merchant=merchant_zhys: {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-04-18 16:26:13,632 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:26:13,674 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:26:13,712 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:26:19,195 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:26:19,228 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:26:19,230 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:26:19] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:27:10,017 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:27:10,069 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-18 16:27:10,069 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 16:27:10,071 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 16:27:11,036 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:27:11,061 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 16:27:11,064 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-18 16:27:59,754 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:27:59] "[31m[1mPOST /api/merchants HTTP/1.1[0m" 405 -
+2026-04-18 16:28:06,646 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:28:06,646 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:28:06] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 16:28:58,691 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:28:58,692 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:28:58] "POST /api/route/resolve HTTP/1.1" 200 -
+2026-04-18 16:31:17,804 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:31:17,842 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:31:17,975 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 500 for merchant=merchant_jxkj: {"code":"internal_server_error","message":"'reranking_enable'","status":500}
+
+2026-04-18 16:31:18,037 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:31:18,077 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:31:18,117 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:31:18,146 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:31:18,173 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:31:24,476 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:31:24,525 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:31:24,527 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:31:24] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:35:47,783 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:35:47,812 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:35:47,856 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 500 for merchant=merchant_jxkj: {"code":"internal_server_error","message":"'reranking_enable'","status":500}
+
+2026-04-18 16:35:47,886 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:35:47,919 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:35:47,957 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:35:47,986 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:35:48,025 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:35:50,715 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:35:50,748 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:35:50,748 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:35:50] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:36:27,809 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:36:27,836 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:36:27,884 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 500 for merchant=merchant_tbsc: {"code":"internal_server_error","message":"'reranking_enable'","status":500}
+
+2026-04-18 16:36:27,917 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:36:27,950 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:36:27,992 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:36:28,019 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:36:28,058 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:36:33,100 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:36:33,131 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:36:33,132 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:36:33] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:40:40,580 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:40:40,612 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:40:40,661 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 500 for merchant=merchant_tbsc: {"code":"internal_server_error","message":"'reranking_enable'","status":500}
+
+2026-04-18 16:40:40,690 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:40:40,725 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:40:40,771 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:40:40,846 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:40:40,910 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:40:45,491 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:40:45,546 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:40:45,548 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:40:45] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:46:32,614 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:46:32,654 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-18 16:46:32,655 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 16:46:32,657 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 16:46:33,657 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:46:33,679 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 16:46:33,682 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-18 16:47:34,039 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:47:34,064 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:47:34,122 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 500 for merchant=merchant_jxkj: {"code":"internal_server_error","message":"'reranking_enable'","status":500}
+
+2026-04-18 16:47:34,148 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:47:34,174 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:47:34,201 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:47:34,225 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:47:34,247 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:47:40,744 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:47:40,774 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:47:40,775 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:47:40] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:56:17,967 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:56:17,998 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-18 16:56:17,999 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 16:56:18,000 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 16:56:18,957 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:56:18,981 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 16:56:18,985 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-18 16:56:31,674 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:56:31,696 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:56:31,748 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 404 for merchant=merchant_jxkj: {"code":"not_found","message":"Dataset not found.","status":404}
+
+2026-04-18 16:56:31,780 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:56:31,810 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:56:31,849 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:56:31,880 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:56:31,918 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:56:37,244 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:56:37,277 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:56:37,280 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:56:37] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 16:57:28,851 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:57:28,852 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:57:28] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 16:57:37,492 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:57:37,501 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:57:37] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 16:59:32,220 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 16:59:32,221 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 16:59:32] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 17:01:19,271 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:01:19,319 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-18 17:01:19,319 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 17:01:19,321 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 17:01:20,308 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:01:20,336 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 17:01:20,339 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-18 17:01:44,998 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:01:45,000 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:01:45] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 17:02:31,325 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:02:31,352 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:02:31,401 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 500 for merchant=merchant_jxkj: {"code":"internal_server_error","message":"'reranking_enable'","status":500}
+
+2026-04-18 17:02:31,431 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:02:31,458 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:02:31,495 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:02:31,518 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:02:31,546 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:02:38,772 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:02:38,805 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:02:38,806 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:02:38] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:04:53,155 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:04:53,156 - werkzeug - INFO - 192.168.179.1 - - [18/Apr/2026 17:04:53] "POST /api/route/resolve HTTP/1.1" 200 -
+2026-04-18 17:07:34,583 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:07:34,613 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:07:34,645 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 500 for merchant=merchant_jxkj: {"code":"internal_server_error","message":"'reranking_enable'","status":500}
+
+2026-04-18 17:07:34,670 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:07:34,693 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:07:34,722 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:07:41,618 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:07:41,647 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:07:41,648 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:07:41] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:16:02,152 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:16:02,173 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:16:02,224 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 500 for merchant=merchant_jxkj: {"code":"internal_server_error","message":"'reranking_enable'","status":500}
+
+2026-04-18 17:16:02,248 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:16:02,269 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:16:02,292 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:16:09,506 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:16:09,533 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:16:09,534 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:16:09] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:22:59,717 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:23:00,648 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-18 17:23:00,648 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 17:23:00,651 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 17:23:01,719 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:23:01,751 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 17:23:01,755 - werkzeug - INFO -  * Debugger PIN: 747-105-226
+2026-04-18 17:26:51,248 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:26:51,250 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:26:51] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 17:28:52,784 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:28:52] "[31m[1mPOST /api/chat HTTP/1.1[0m" 415 -
+2026-04-18 17:29:39,952 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:29:39] "[31m[1mPOST /api/chat HTTP/1.1[0m" 415 -
+2026-04-18 17:31:41,700 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:31:42,588 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-18 17:31:42,588 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 17:31:42,591 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 17:31:43,540 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:31:43,561 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 17:31:43,565 - werkzeug - INFO -  * Debugger PIN: 747-105-226
+2026-04-18 17:31:48,929 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:31:48] "[31m[1mPOST /api/chat HTTP/1.1[0m" 415 -
+2026-04-18 17:31:50,527 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:31:50] "[31m[1mPOST /api/chat HTTP/1.1[0m" 415 -
+2026-04-18 17:32:01,367 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:32:01,368 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:32:01] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 17:32:15,129 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:32:15] "[31m[1mPOST /api/chat HTTP/1.1[0m" 415 -
+2026-04-18 17:35:25,557 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:35:25,585 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:35:25,653 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 500 for merchant=merchant_jxkj: {"code":"internal_server_error","message":"'reranking_enable'","status":500}
+
+2026-04-18 17:35:25,680 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:35:25,710 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:35:25,789 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:35:25,826 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:35:25,867 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:35:31,421 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:35:31,456 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:35:31,457 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:35:31] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:38:27,095 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\utils\\dify_dataset_retriever.py', reloading
+2026-04-18 17:38:27,283 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 17:38:28,292 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:38:28,319 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 17:38:28,324 - werkzeug - INFO -  * Debugger PIN: 747-105-226
+2026-04-18 17:39:18,452 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:39:19,326 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-18 17:39:19,327 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 17:39:19,330 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 17:39:20,281 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:39:20,303 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 17:39:20,307 - werkzeug - INFO -  * Debugger PIN: 747-105-226
+2026-04-18 17:39:26,038 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:39:26,079 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:39:27,573 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:39:27,601 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:39:27,635 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:39:27,661 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:39:27,686 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:39:33,081 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:39:33,119 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:39:33,121 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:39:33] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:40:01,783 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:01,817 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:01,884 - utils.dify_dataset_retriever - ERROR - Dify dataset retrieve HTTP error 404 for merchant=merchant_tbsc: {"code":"not_found","message":"Dataset not found.","status":404}
+
+2026-04-18 17:40:01,923 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:01,972 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:02,034 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:02,070 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:02,105 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:07,691 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:07,723 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:07,725 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:40:07] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:40:28,802 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:28,840 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:30,091 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:30,118 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:30,148 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:30,173 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:30,197 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:35,388 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:35,421 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:40:35,423 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:40:35] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:51:04,743 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:51:04,744 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:51:04] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 17:51:56,825 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:51:56,827 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:51:56] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 17:52:10,794 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:52:11,670 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-18 17:52:11,671 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-18 17:52:11,672 - werkzeug - INFO -  * Restarting with stat
+2026-04-18 17:52:12,641 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:52:12,663 - werkzeug - WARNING -  * Debugger is active!
+2026-04-18 17:52:12,666 - werkzeug - INFO -  * Debugger PIN: 747-105-226
+2026-04-18 17:52:23,717 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:52:23,743 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:52:24,590 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:52:24,615 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:52:24,644 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:52:24,667 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:52:24,691 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:52:29,805 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:52:29,833 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:52:29,835 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:52:29] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:53:31,740 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:53:31,766 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:53:32,438 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:53:32,463 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:53:32,492 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:53:32,512 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:53:32,542 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:53:38,103 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:53:38,131 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:53:38,132 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:53:38] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:54:27,480 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:54:27,514 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:54:28,154 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:54:28,176 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:54:28,206 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:54:32,337 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:54:32,364 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:54:32,365 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:54:32] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:57:06,689 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:06,724 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:07,383 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:07,417 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:07,455 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:07,479 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:07,503 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:12,543 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:12,579 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:12,580 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:57:12] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:57:50,452 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:50,490 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:50,818 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:50,840 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:50,891 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:50,922 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:50,956 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:56,466 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:56,498 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:57:56,500 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:57:56] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:58:49,039 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:58:49,075 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:58:49,820 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:58:49,848 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:58:49,880 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:58:49,906 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:58:49,931 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:58:54,059 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:58:54,091 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:58:54,092 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:58:54] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 17:59:29,645 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:59:29,676 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:59:30,385 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:59:30,412 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:59:30,437 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:59:35,770 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:59:35,800 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 17:59:35,800 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 17:59:35] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 18:03:58,636 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:03:58,676 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:03:59,398 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:03:59,423 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:03:59,445 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:04:05,154 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:04:05,181 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:04:05,182 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 18:04:05] "POST /api/chat HTTP/1.1" 200 -
+2026-04-18 18:08:18,382 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:08:18,418 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:08:18,446 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:08:18,449 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 18:08:18] "POST /api/admin/merchants HTTP/1.1" 200 -
+2026-04-18 18:08:43,889 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:08:43,890 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 18:08:43] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-18 18:09:45,323 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:09:45,360 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:09:46,068 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:09:46,121 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:09:46,189 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:09:46,235 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:09:46,287 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:09:51,370 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:09:51,405 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-18 18:09:51,406 - werkzeug - INFO - 127.0.0.1 - - [18/Apr/2026 18:09:51] "POST /api/chat HTTP/1.1" 200 -

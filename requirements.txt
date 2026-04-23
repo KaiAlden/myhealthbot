@@ -1,0 +1,9 @@
+dashscope==1.25.5
+flasgger==0.9.7.1
+Flask==3.1.2
+flask_cors==6.0.2
+mysql-connector-python==9.1.0
+openpyxl
+tabulate
+pymupdf
+pdfplumber

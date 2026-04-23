@@ -1,0 +1,204 @@
+2026-04-20 08:54:30,987 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 08:54:31,899 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-20 08:54:31,900 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 08:54:31,902 - werkzeug - INFO -  * Restarting with stat
+2026-04-20 08:54:33,002 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 08:54:33,030 - werkzeug - WARNING -  * Debugger is active!
+2026-04-20 08:54:33,035 - werkzeug - INFO -  * Debugger PIN: 747-105-226
+2026-04-20 08:55:13,287 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 08:55:13,289 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 08:55:13] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-20 08:55:30,537 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 08:55:30,565 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 08:55:33,667 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 08:55:33,694 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 08:55:33,753 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 08:55:33,780 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 08:55:33,805 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 08:55:39,853 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 08:55:39,883 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 08:55:39,883 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 08:55:39] "POST /api/chat HTTP/1.1" 200 -
+2026-04-20 09:07:52,621 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 09:07:52,622 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 09:07:52] "[33mPATCH /api/admin/merchants/2f41a601-34f9-4865-ba37-cc082a2e7a1c/disable HTTP/1.1[0m" 404 -
+2026-04-20 09:09:50,241 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 09:09:50,277 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 09:09:50,300 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 09:09:50,301 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 09:09:50] "PATCH /api/admin/merchants/merchant_zhys/disable HTTP/1.1" 200 -
+2026-04-20 09:11:15,483 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 09:11:15,484 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 09:11:15] "GET /api/admin/merchants?include_prompt=true HTTP/1.1" 200 -
+2026-04-20 09:12:01,140 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 09:12:01,141 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 09:12:01] "GET /api/merchants?enabled_only=true HTTP/1.1" 200 -
+2026-04-20 09:12:16,484 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 09:12:16,485 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 09:12:16] "GET /api/admin/merchants?include_prompt=true HTTP/1.1" 200 -
+2026-04-20 13:23:29,021 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:23:29,031 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 13:23:29] "GET /api/merchants HTTP/1.1" 200 -
+2026-04-20 13:24:31,642 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:24:31,683 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:24:37,543 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:24:37,593 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:24:37,595 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 13:24:37] "POST /api/chat HTTP/1.1" 200 -
+2026-04-20 13:26:00,479 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:26:00,526 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:26:00,560 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:26:00,561 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 13:26:00] "PATCH /api/admin/merchants/merchant_zhys/enable HTTP/1.1" 200 -
+2026-04-20 13:26:10,252 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:26:10,281 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:26:13,426 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:26:13,456 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:26:13,481 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:26:18,529 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:26:18,560 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 13:26:18,561 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 13:26:18] "POST /api/chat HTTP/1.1" 200 -
+2026-04-20 15:46:21,932 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 15:46:22,010 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-20 15:46:22,012 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-20 15:46:22,014 - werkzeug - INFO -  * Restarting with stat
+2026-04-20 15:46:23,329 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 15:46:23,366 - werkzeug - WARNING -  * Debugger is active!
+2026-04-20 15:46:23,369 - werkzeug - INFO -  * Debugger PIN: 747-105-226
+2026-04-20 15:46:32,903 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 15:46:32,905 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 15:46:32] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 15:53:35,400 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 15:53:35,437 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 15:53:35,486 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 15:53:35,507 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 15:53:35] "PATCH /api/admin/merchants/merchant_zykj HTTP/1.1" 200 -
+2026-04-20 15:54:04,128 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 15:54:04,129 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 15:54:04] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 15:54:15,436 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 15:54:15] "[31m[1mPATCH /api/admin/merchants/merchant_zhys HTTP/1.1[0m" 415 -
+2026-04-20 15:54:36,515 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 15:54:36] "[31m[1mPATCH /api/admin/merchants HTTP/1.1[0m" 405 -
+2026-04-20 15:54:56,107 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 15:54:56] "[31m[1mGET /api/admin/merchants/merchant_zykj HTTP/1.1[0m" 405 -
+2026-04-20 15:55:07,645 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 15:55:07,647 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 15:55:07] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 15:58:12,593 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 15:58:12,594 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 15:58:12] "[31m[1mPATCH /api/admin/merchants/merchant_zykj HTTP/1.1[0m" 400 -
+2026-04-20 16:01:44,801 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:01:44,838 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:01:44,880 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:01:44,882 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:01:44] "PATCH /api/admin/merchants/merchant_jxkj/knowledge-base-binding HTTP/1.1" 200 -
+2026-04-20 16:02:02,358 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:02:02,359 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:02:02] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 16:03:04,085 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:03:04,124 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:03:04,153 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:03:04,154 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:03:04] "PATCH /api/admin/merchants/merchant_jxkj/knowledge-base-binding HTTP/1.1" 200 -
+2026-04-20 16:03:10,839 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:03:10,840 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:03:10] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 16:07:40,088 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:07:40,131 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:07:40,164 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:07:40,165 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:07:40] "PATCH /api/admin/merchants/merchant_jxkj/knowledge-base-binding HTTP/1.1" 200 -
+2026-04-20 16:07:48,524 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:07:48,526 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:07:48] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 16:14:27,056 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:14:27,057 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:14:27] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 16:14:32,638 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:14:32,639 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:14:32] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 16:14:39,935 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:14:39,967 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:14:40,004 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:14:40,005 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:14:40] "PATCH /api/admin/merchants/merchant_jxkj HTTP/1.1" 200 -
+2026-04-20 16:14:45,938 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:14:45,939 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:14:45] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 16:18:06,619 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:18:06,657 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:18:06,687 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:18:06,688 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:18:06] "PATCH /api/admin/merchants/merchant_jxkj/knowledge-base-binding HTTP/1.1" 200 -
+2026-04-20 16:18:20,688 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:18:20,689 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:18:20] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 16:27:02,468 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:27:02] "[31m[1mPATCH /api/admin/merchants/merchant_zykj HTTP/1.1[0m" 400 -
+2026-04-20 16:28:30,840 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:28:30] "[33mPATCH /api/admin/merchants/merchant_zykj/disabled HTTP/1.1[0m" 404 -
+2026-04-20 16:29:13,487 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:29:13,521 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:29:13,551 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:29:13,552 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:29:13] "PATCH /api/admin/merchants/merchant_jxkj/disable HTTP/1.1" 200 -
+2026-04-20 16:29:44,535 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:29:44,536 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:29:44] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 16:30:14,290 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:30:14,331 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:30:14,367 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:30:14,368 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:30:14] "PATCH /api/admin/merchants/merchant_jxkj/enable HTTP/1.1" 200 -
+2026-04-20 16:30:37,627 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:30:37,628 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:30:37] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 16:49:24,647 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:49:24,945 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:49:24] "GET /api/admin/merchants/merchant_tbsc/dify/knowledge-base HTTP/1.1" 200 -
+2026-04-20 16:54:29,171 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:54:29,305 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:54:29,338 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:54:29,366 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:54:29,367 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:54:29] "PATCH /api/admin/merchants/merchant_tbsc/dify/knowledge-base HTTP/1.1" 200 -
+2026-04-20 16:54:45,254 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:54:45,254 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:54:45] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 16:56:11,491 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:56:11,582 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:56:11] "GET /api/admin/merchants/merchant_tbsc/dify/documents?page=1&limit=20 HTTP/1.1" 200 -
+2026-04-20 16:56:50,275 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:56:50,322 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:56:50] "[33mGET /api/admin/merchants/merchant_jxkj/dify/documents?page=1&limit=20 HTTP/1.1[0m" 404 -
+2026-04-20 16:56:52,433 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:56:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-20 16:58:50,621 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 16:58:50,678 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 16:58:50] "GET /api/admin/merchants/merchant_zhys/dify/documents?page=1&limit=20 HTTP/1.1" 200 -
+2026-04-20 17:00:13,291 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 17:00:13] "[33mPOST /api/admin/merchants/merchant_zhys/dify/{batch}/indexing-status HTTP/1.1[0m" 404 -
+2026-04-20 17:00:47,440 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 17:00:47] "[31m[1mPOST /api/admin/merchants/merchant_zhys/dify/documents/{batch}/indexing-status HTTP/1.1[0m" 405 -
+2026-04-20 17:01:03,069 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 17:01:03] "[31m[1mPOST /api/admin/merchants/merchant_zhys/dify/documents/{batch}/indexing-status HTTP/1.1[0m" 405 -
+2026-04-20 17:01:54,814 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 17:01:54,859 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 17:01:54] "GET /api/admin/merchants/merchant_zhys/dify/documents HTTP/1.1" 200 -
+2026-04-20 18:41:10,391 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 18:41:10,403 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 18:41:10] "[33mGET /api/admin/merchants/merchant_jxkj/dify/documents?page=1&limit=20 HTTP/1.1[0m" 404 -
+2026-04-20 18:41:20,543 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 18:41:20,597 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 18:41:20] "GET /api/admin/merchants/merchant_zhys/dify/documents?page=1&limit=20 HTTP/1.1" 200 -
+2026-04-20 18:57:55,711 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 18:57:55,712 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 18:57:55] "[31m[1mPOST /api/admin/merchants/merchant_jxkj/dify/documents/{document_id}/update-by-text HTTP/1.1[0m" 415 -
+2026-04-20 18:58:23,410 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 18:58:23,413 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 18:58:23] "[31m[1mPOST /api/admin/merchants/merchant_jxkj/dify/documents/49fc15de-fa8c-43a6-83f1-f44f8d5f181c/update-by-text HTTP/1.1[0m" 415 -
+2026-04-20 18:58:25,478 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 18:58:25,479 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 18:58:25] "[31m[1mPOST /api/admin/merchants/merchant_jxkj/dify/documents/49fc15de-fa8c-43a6-83f1-f44f8d5f181c/update-by-text HTTP/1.1[0m" 415 -
+2026-04-20 18:59:05,618 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 18:59:05,626 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 18:59:05] "[33mPOST /api/admin/merchants/merchant_jxkj/dify/documents/49fc15de-fa8c-43a6-83f1-f44f8d5f181c/update-by-text HTTP/1.1[0m" 404 -
+2026-04-20 18:59:26,988 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 18:59:28,426 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 18:59:28] "POST /api/admin/merchants/merchant_zhys/dify/documents/49fc15de-fa8c-43a6-83f1-f44f8d5f181c/update-by-text HTTP/1.1" 200 -
+2026-04-20 19:01:12,775 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:01:12,782 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 19:01:12] "[33mGET /api/admin/merchants/merchant_jxkj/dify/documents/20260415085551220044/indexing-status HTTP/1.1[0m" 404 -
+2026-04-20 19:01:26,925 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:01:27,025 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 19:01:27] "GET /api/admin/merchants/merchant_zhys/dify/documents/20260415085551220044/indexing-status HTTP/1.1" 200 -
+2026-04-20 19:05:54,674 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:05:54,706 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 19:05:54] "[33mPOST /api/admin/merchants/merchant_jxkj/dify/documents/49fc15de-fa8c-43a6-83f1-f44f8d5f181c/update-by-file HTTP/1.1[0m" 404 -
+2026-04-20 19:06:09,481 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:06:09,511 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 19:06:09] "[33mPOST /api/admin/merchants/merchant_jxkj/dify/documents/49fc15de-fa8c-43a6-83f1-f44f8d5f181c/update-by-file HTTP/1.1[0m" 404 -
+2026-04-20 19:06:17,025 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:06:17,343 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 19:06:17] "POST /api/admin/merchants/merchant_zhys/dify/documents/49fc15de-fa8c-43a6-83f1-f44f8d5f181c/update-by-file HTTP/1.1" 200 -
+2026-04-20 19:09:15,244 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:09:15,288 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:09:16,333 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:09:16,360 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:09:16,421 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:09:16,455 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:09:16,490 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:09:23,240 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:09:23,314 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:09:23,369 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 19:09:23] "POST /api/chat HTTP/1.1" 200 -
+2026-04-20 19:10:29,886 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:10:29,922 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:10:30,756 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:10:30,788 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:10:30,815 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:10:37,058 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:10:37,105 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:10:37,106 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 19:10:37] "POST /api/chat HTTP/1.1" 200 -
+2026-04-20 19:11:12,818 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:11:12,866 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:11:13,744 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:11:13,779 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:11:13,806 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:11:20,583 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:11:20,615 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:11:20,616 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 19:11:20] "POST /api/chat HTTP/1.1" 200 -
+2026-04-20 19:21:27,464 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:21:27,464 - werkzeug - INFO - 127.0.0.1 - - [20/Apr/2026 19:21:27] "GET /api/admin/merchants HTTP/1.1" 200 -
+2026-04-20 19:39:10,503 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\utils\\dify_knowledge_base_client.py', reloading
+2026-04-20 19:39:10,648 - werkzeug - INFO -  * Restarting with stat
+2026-04-20 19:39:12,461 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-20 19:39:12,530 - werkzeug - WARNING -  * Debugger is active!
+2026-04-20 19:39:12,535 - werkzeug - INFO -  * Debugger PIN: 747-105-226

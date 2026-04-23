@@ -1,0 +1,29 @@
+{
+  "default_merchant_id": "prodect000",
+  "merchants": [
+    {
+      "merchant_id": "prodect001",
+      "merchant_name": "国贸酒店料包",
+      "dataset_id": "4b7c4c46-e363-4aa9-a720-c03ea3bfe75a",
+      "dataset_name": "国贸酒店料包知识库",
+      "aliases": [],
+      "keywords": ["国贸酒店", "料包", "汤包"],
+      "enabled": true,
+      "route_strategy": "merchant_id",
+      "score_threshold": 0.5,
+      "system_prompt": "你是国贸酒店料包的导购助手，请基于检索到的商品资料回答用户问题。资料不足时明确说明，不要编造参数或库存。"
+    },
+    {
+      "merchant_id": "prodect002",
+      "merchant_name": "新亳品汇",
+      "dataset_id": "3e85eb1b-0caf-46d7-9a55-87eec35abdb9",
+      "dataset_name": "新亳品汇商品知识库",
+      "aliases": [],
+      "keywords": ["新亳品汇", "九大体制"],
+      "enabled": true,
+      "route_strategy": "merchant_id",
+      "score_threshold": 0.5,
+      "system_prompt": "你是新亳品汇的导购助手，请优先推荐商城内相关商品。资料不足时说明暂未命中，不要虚构商品。"
+    }
+  ]
+}

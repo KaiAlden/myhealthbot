@@ -1,0 +1,62 @@
+2026-04-17 10:26:29,732 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-17 10:26:29,734 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 10:26:29,737 - werkzeug - INFO -  * Restarting with stat
+2026-04-17 10:26:30,791 - werkzeug - WARNING -  * Debugger is active!
+2026-04-17 10:26:30,798 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-17 10:27:45,146 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 10:27:45] "[31m[1mPOST /api/chatstream HTTP/1.1[0m" 400 -
+2026-04-17 10:28:32,308 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 10:28:32] "[31m[1mPOST /api/chatstream HTTP/1.1[0m" 400 -
+2026-04-17 10:32:15,333 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 10:32:15,364 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 10:32:17,897 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 10:32:17] "POST /api/chatstream HTTP/1.1" 200 -
+2026-04-17 10:32:22,051 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 10:32:22,094 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 10:32:22,094 - __main__ - INFO - chatstream finished in 10.510s
+2026-04-17 16:15:20,620 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-17 16:15:20,620 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-17 16:15:20,622 - werkzeug - INFO -  * Restarting with stat
+2026-04-17 16:15:21,706 - werkzeug - WARNING -  * Debugger is active!
+2026-04-17 16:15:21,712 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-17 16:16:34,834 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 16:16:34] "[31m[1mPOST /api/chatstream HTTP/1.1[0m" 415 -
+2026-04-17 16:17:06,604 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:17:06,631 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:17:09,024 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 16:17:09] "POST /api/chatstream HTTP/1.1" 200 -
+2026-04-17 16:17:13,348 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:17:13,380 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:17:13,380 - __main__ - INFO - chatstream finished in 9.753s
+2026-04-17 16:20:24,219 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:20:24,252 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:20:24,254 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 16:20:24] "POST /api/conversation/new HTTP/1.1" 200 -
+2026-04-17 16:21:57,386 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:21:57,424 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:21:57,425 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 16:21:57] "POST /api/conversation/new HTTP/1.1" 200 -
+2026-04-17 16:24:42,521 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:24:42,550 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:24:42,551 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 16:24:42] "POST /api/conversation/new HTTP/1.1" 200 -
+2026-04-17 16:26:51,833 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:26:51,865 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:26:57,149 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:26:57,182 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:26:57,183 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 16:26:57] "POST /api/chat HTTP/1.1" 200 -
+2026-04-17 16:27:24,892 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:27:24,927 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:27:24,928 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 16:27:24] "POST /api/chat HTTP/1.1" 200 -
+2026-04-17 16:28:13,187 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:28:13,227 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:28:13,229 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 16:28:13] "POST /api/conversation/new HTTP/1.1" 200 -
+2026-04-17 16:28:37,681 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:28:37,707 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:28:41,429 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:28:41,461 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:28:41,462 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 16:28:41] "POST /api/chat HTTP/1.1" 200 -
+2026-04-17 16:30:33,429 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:30:33,460 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:30:33,461 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 16:30:33] "GET /api/gethistory?user_id=u001&conversation_id=f1fafe04-59c2-43ee-bdd2-78db1333a871&merchant_id=m001 HTTP/1.1" 200 -
+2026-04-17 16:32:07,080 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:32:07,129 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-17 16:32:07,134 - werkzeug - INFO - 127.0.0.1 - - [17/Apr/2026 16:32:07] "GET /api/gethistory?user_id=u001&conversation_id=33c2d341-dcaf-43e5-ba52-19b5b4dcc508&merchant_id=m001 HTTP/1.1" 200 -

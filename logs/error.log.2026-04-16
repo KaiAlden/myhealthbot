@@ -1,0 +1,10 @@
+2026-04-16 09:53:04,669 - utils.dify_client - ERROR - dify_client.py:47 - Dify request failed: <urlopen error timed out>
+2026-04-16 09:53:04,729 - mysql_util - ERROR - mysql_util.py:50 - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-16 09:53:04,729 - data.history_data - ERROR - history_data.py:138 - Prepare history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-16 09:53:09,900 - mysql_util - ERROR - mysql_util.py:50 - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-16 09:53:09,901 - data.history_data - ERROR - history_data.py:95 - Create history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-16 09:55:09,755 - utils.dify_client - ERROR - dify_client.py:47 - Dify request failed: <urlopen error timed out>
+2026-04-16 09:55:09,794 - mysql_util - ERROR - mysql_util.py:50 - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-16 09:55:09,794 - data.history_data - ERROR - history_data.py:138 - Prepare history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-16 09:55:13,827 - mysql_util - ERROR - mysql_util.py:50 - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-16 09:55:13,827 - data.history_data - ERROR - history_data.py:95 - Create history table failed: 'NoneType' object has no attribute 'execute'

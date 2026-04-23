@@ -1,0 +1,116 @@
+2026-04-16 09:52:32,215 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-16 09:52:32,217 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-16 09:52:32,219 - werkzeug - INFO -  * Restarting with stat
+2026-04-16 09:52:33,152 - werkzeug - WARNING -  * Debugger is active!
+2026-04-16 09:52:33,158 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-16 09:52:37,126 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 09:52:37] "GET /apidocs/ HTTP/1.1" 200 -
+2026-04-16 09:52:37,238 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 09:52:37] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2026-04-16 09:52:37,364 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 09:52:37] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2026-04-16 09:52:37,489 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 09:52:37] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2026-04-16 09:52:37,490 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 09:52:37] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2026-04-16 09:52:37,819 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 09:52:37] "GET /apispec_1.json HTTP/1.1" 200 -
+2026-04-16 09:53:04,669 - utils.dify_client - ERROR - Dify request failed: <urlopen error timed out>
+2026-04-16 09:53:04,729 - mysql_util - ERROR - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-16 09:53:04,729 - data.history_data - ERROR - Prepare history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-16 09:53:09,900 - mysql_util - ERROR - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-16 09:53:09,901 - data.history_data - ERROR - Create history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-16 09:53:09,901 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 09:53:09] "POST /api/chat HTTP/1.1" 200 -
+2026-04-16 09:55:09,755 - utils.dify_client - ERROR - Dify request failed: <urlopen error timed out>
+2026-04-16 09:55:09,794 - mysql_util - ERROR - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-16 09:55:09,794 - data.history_data - ERROR - Prepare history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-16 09:55:13,827 - mysql_util - ERROR - 连接MySQL数据库失败: 2005 (HY000): Unknown MySQL server host 'rm-m5eons6638o67j9hijo.mysql.rds.aliyuncs.com' (11001)
+2026-04-16 09:55:13,827 - data.history_data - ERROR - Create history table failed: 'NoneType' object has no attribute 'execute'
+2026-04-16 09:55:13,828 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 09:55:13] "POST /api/chat HTTP/1.1" 200 -
+2026-04-16 10:03:52,050 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:9901
+ * Running on http://192.168.112.113:9901
+2026-04-16 10:03:52,051 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2026-04-16 10:03:52,054 - werkzeug - INFO -  * Restarting with stat
+2026-04-16 10:03:53,001 - werkzeug - WARNING -  * Debugger is active!
+2026-04-16 10:03:53,008 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-16 10:04:18,085 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 10:04:18,107 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 10:04:21,032 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 10:04:21,068 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 10:04:21,070 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 10:04:21] "POST /api/chat HTTP/1.1" 200 -
+2026-04-16 10:45:22,256 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 10:45:22,284 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 10:45:22,285 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 10:45:22] "POST /api/chat HTTP/1.1" 200 -
+2026-04-16 10:58:29,837 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 10:58:29,869 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 10:58:32,687 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 10:58:32] "POST /api/chatstream HTTP/1.1" 200 -
+2026-04-16 10:58:34,633 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 10:58:34,681 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 10:58:34,682 - __main__ - INFO - chatstream finished in 10.500s
+2026-04-16 11:02:33,527 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 11:02:33,593 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 11:02:35,163 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 11:02:35] "POST /api/chatstream HTTP/1.1" 200 -
+2026-04-16 11:02:36,185 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 11:02:36,250 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 11:02:36,251 - __main__ - INFO - chatstream finished in 9.565s
+2026-04-16 11:03:45,473 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 11:03:45,522 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 11:03:48,253 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 11:03:48] "POST /api/chatstream HTTP/1.1" 200 -
+2026-04-16 11:03:50,965 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 11:03:51,006 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 11:03:51,007 - __main__ - INFO - chatstream finished in 11.314s
+2026-04-16 14:54:59,252 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\utils\\config_util.py', reloading
+2026-04-16 14:54:59,549 - werkzeug - INFO -  * Restarting with stat
+2026-04-16 14:55:01,413 - werkzeug - WARNING -  * Debugger is active!
+2026-04-16 14:55:01,418 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-16 14:55:03,475 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\utils\\context_builder.py', reloading
+2026-04-16 14:55:03,832 - werkzeug - INFO -  * Restarting with stat
+2026-04-16 14:55:05,611 - werkzeug - WARNING -  * Debugger is active!
+2026-04-16 14:55:05,615 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-16 14:55:10,709 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\data\\merchant_registry.py', reloading
+2026-04-16 14:55:10,957 - werkzeug - INFO -  * Restarting with stat
+2026-04-16 14:55:12,249 - werkzeug - WARNING -  * Debugger is active!
+2026-04-16 14:55:12,253 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-16 14:55:13,280 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\data\\chat_route_model.py', reloading
+2026-04-16 14:55:13,587 - werkzeug - INFO -  * Restarting with stat
+2026-04-16 14:55:14,938 - werkzeug - WARNING -  * Debugger is active!
+2026-04-16 14:55:14,942 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-16 15:15:24,625 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:15:24] "GET /apidocs/ HTTP/1.1" 200 -
+2026-04-16 15:15:24,722 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:15:24] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2026-04-16 15:15:24,858 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:15:24] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2026-04-16 15:15:24,982 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:15:24] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2026-04-16 15:15:24,983 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:15:24] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2026-04-16 15:15:25,334 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:15:25] "GET /apispec_1.json HTTP/1.1" 200 -
+2026-04-16 15:15:25,382 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:15:25] "[36mGET /flasgger_static/favicon-32x32.png HTTP/1.1[0m" 304 -
+2026-04-16 15:15:52,080 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:15:52] "GET /apidocs/ HTTP/1.1" 200 -
+2026-04-16 15:16:21,227 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:16:21] "[33mGET /apidocs/今天上海天气怎么样 HTTP/1.1[0m" 404 -
+2026-04-16 15:16:37,230 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:16:37] "GET /apidocs/ HTTP/1.1" 200 -
+2026-04-16 15:17:02,702 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:17:02] "GET /apidocs/ HTTP/1.1" 200 -
+2026-04-16 15:17:02,744 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:17:02] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2026-04-16 15:17:02,960 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:17:02] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2026-04-16 15:17:03,053 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:17:03] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2026-04-16 15:17:03,054 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:17:03] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2026-04-16 15:17:03,407 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:17:03] "GET /apispec_1.json HTTP/1.1" 200 -
+2026-04-16 15:19:34,571 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:19:34] "[31m[1mGET /api/chatstream HTTP/1.1[0m" 405 -
+2026-04-16 15:19:34,613 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:19:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-04-16 15:20:46,538 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 15:20:46,563 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 15:20:49,067 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 15:20:49] "POST /api/chatstream HTTP/1.1" 200 -
+2026-04-16 15:20:51,604 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 15:20:51,637 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 15:20:51,638 - __main__ - INFO - chatstream finished in 10.966s
+2026-04-16 15:51:07,995 - werkzeug - INFO -  * Detected change in 'D:\\yd_project\\aibot_rag\\aibotcode\\ai_bot\\main.py', reloading
+2026-04-16 15:51:08,283 - werkzeug - INFO -  * Restarting with stat
+2026-04-16 15:51:10,354 - werkzeug - WARNING -  * Debugger is active!
+2026-04-16 15:51:10,357 - werkzeug - INFO -  * Debugger PIN: 220-009-050
+2026-04-16 16:38:24,462 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 16:38:24,491 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 16:38:26,242 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 16:38:26] "POST /api/chatstream HTTP/1.1" 200 -
+2026-04-16 16:38:27,524 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 16:38:27,559 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 16:38:27,560 - __main__ - INFO - chatstream finished in 9.933s
+2026-04-16 16:52:38,869 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 16:52:38,893 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 16:52:40,222 - werkzeug - INFO - 127.0.0.1 - - [16/Apr/2026 16:52:40] "POST /api/chatstream HTTP/1.1" 200 -
+2026-04-16 16:52:43,019 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 16:52:43,064 - mysql_util - INFO - MySQL数据库连接已关闭
+2026-04-16 16:52:43,066 - __main__ - INFO - chatstream finished in 12.572s
